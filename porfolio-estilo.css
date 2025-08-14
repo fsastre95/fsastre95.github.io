@@ -1,0 +1,57 @@
+body {
+    background-image: url(fondo.png);
+    background-size: cover;     
+    background-repeat: repeat;    
+}
+h1{
+    position: absolute;
+    left: 751.7px;  
+    top: 173.7px; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+}
+p {
+    position: absolute;
+    left: 751.7px;  
+    top: 224.3px; 
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    padding: 10px 20px;
+    background-color: white;
+}
+.sobre-mi-btn {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn-sobre-mi {
+    position: absolute;
+    left: 778.5px;
+    top: 286.7px;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-portfolio {
+    position: absolute;
+    left: 778.5px;
+    top: 373.4px;
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
